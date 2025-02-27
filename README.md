@@ -60,6 +60,7 @@ The 4-DOF configuration was chosen to balance complexity, cost, and performance,
 
 ### CAD Modeling
 A 3D model was adapted using CAD tools, ensuring compatibility with 3D printing and modular assembly. This allowed for pre-fabrication simulation and error correction.
+- ![3D Model](3d_model)
 
 ### Drive Systems
 - **MG995 Servomotors**: Used for high-torque joints.
@@ -85,9 +86,11 @@ Equations were solved to determine joint angles required to reach specific posit
 ## Prototyping and Fabrication
 ### 3D Printing
 An existing 3D model was adapted and printed using a 3D printer.
+- ![Printing](printing.png)
 
 ### Assembly
 Components were assembled with servomotors, gears, and electronic modules, ensuring proper cable management.
+- ![Final Arm](arm.jpg)
 
 ---
 
@@ -117,6 +120,7 @@ A simple GUI was developed using **Tkinter** for real-time control and trajector
 ## Simulation
 ### RViz and Gazebo
 Simulations were conducted to validate the robotic arm's behavior in a virtual environment before physical implementation.
+- ![Simulation](simulation.jpg)
 
 ---
 
@@ -162,3 +166,5 @@ The project successfully demonstrated the design and implementation of a 4-DOF r
 - **Durability**: Use more robust servomotors for long-term use.
 
 ---
+
+For more details, visit the [full report](rapport.pdf) (French version).
