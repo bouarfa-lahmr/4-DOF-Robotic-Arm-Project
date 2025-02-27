@@ -86,7 +86,7 @@ Equations were solved to determine joint angles required to reach specific posit
 ## Prototyping and Fabrication
 ### 3D Printing
 An existing 3D model was adapted and printed using a 3D printer.
-- ![Printing](printing.png)
+- ![Printing](printing.PNG)
 
 ### Assembly
 Components were assembled with servomotors, gears, and electronic modules, ensuring proper cable management.
@@ -120,7 +120,7 @@ A simple GUI was developed using **Tkinter** for real-time control and trajector
 ## Simulation
 ### RViz and Gazebo
 Simulations were conducted to validate the robotic arm's behavior in a virtual environment before physical implementation.
-- ![Simulation](simulation.jpg)
+- ![Simulation](simulation.jpeg)
 
 ---
 
