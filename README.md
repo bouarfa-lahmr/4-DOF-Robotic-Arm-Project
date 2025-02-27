@@ -60,7 +60,7 @@ The 4-DOF configuration was chosen to balance complexity, cost, and performance,
 
 ### CAD Modeling
 A 3D model was adapted using CAD tools, ensuring compatibility with 3D printing and modular assembly. This allowed for pre-fabrication simulation and error correction.
-- ![3d_model.jpgl](3d_model)
+- ![3d_modell](3d_model.jpgl)
 
 ### Drive Systems
 - **MG995 Servomotors**: Used for high-torque joints.
